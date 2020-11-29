@@ -3,4 +3,4 @@
     ports:
       - 1883:1883
     volumes:
-      - ./configuration/mosquitto:/etc/mosquitto
+      - ./configuration/mosquitto:/mosquitto
