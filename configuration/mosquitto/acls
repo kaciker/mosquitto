@@ -7,7 +7,6 @@ topic read application/+/device/+/command/+
 user kaciker
 topic write gateway/+/event/+
 topic read gateway/+/command/+
-user kaciker
 topic write application/+/device/+/event/+
 topic read application/+/device/+/command/+
 user iot
