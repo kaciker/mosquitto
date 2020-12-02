@@ -4,11 +4,3 @@ topic read gateway/+/command/+
 user iotbss
 topic write application/+/device/+/event/+
 topic read application/+/device/+/command/+
-user kaciker
-topic readwrite #
-user iot
-topic write gateway/+/event/+
-topic read gateway/+/command/+
-user iot
-topic write application/+/device/+/event/+
-topic read application/+/device/+/command/+
